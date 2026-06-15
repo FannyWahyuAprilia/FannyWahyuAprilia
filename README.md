@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta
-💼 Currently Intern as Data & Analytics at [Binar Academy](https://www.binar.co.id/)
-🔬 Data Analytics and Bussiness Intelligence Analyst
-📚 Passionate about unlocking insights and solving problems through Data
+- 🎓 I'm a Data Enthusiast and a mathematics graduate from UIN Syarif Hidayatullah Jakarta
+- 💼 Currently Intern as Data & Analytics at [Binar Academy](https://www.binar.co.id/)
+- 🔬 Data Analytics and Bussiness Intelligence Analyst
+- 📚 Passionate about unlocking insights and solving problems through Data
 
 ![Hi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ3azNwMnZqMHB0aDlkbnk3MG83Y2ZubmE2dHg3anBpcTFudXV4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/El4BIt7FIVeKb396vK/giphy.gif)
